@@ -1,0 +1,17 @@
+.entry1 {
+  background-color: gray;
+}
+
+.entry2 {
+  color: blue;
+}
+
+.entry3 {
+  background-color: salmon;
+  color: blue;
+}
+
+.about {
+  width: 75%;
+  font-style: italic;
+}
